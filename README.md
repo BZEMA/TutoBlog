@@ -168,7 +168,14 @@ Le système d'authentification utilise Laravel Fortify avec :
 
 ## 📝 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+### Mentions et Attributions
+
+- Ce projet a été inspiré par le tutoriel de [LaMinuteDecode](https://www.youtube.com/@LaMinuteDecode)
+- Utilise le framework [Laravel](https://laravel.com) sous [licence MIT](https://github.com/laravel/laravel/blob/master/LICENSE.md)
+- Interface utilisateur construite avec [React](https://reactjs.org) sous [licence MIT](https://github.com/facebook/react/blob/main/LICENSE)
+- Composants UI par [shadcn/ui](https://ui.shadcn.com) sous [licence MIT](https://github.com/shadcn/ui/blob/main/LICENSE.md)
 
 ## ✨ Fonctionnalités futures envisagées
 
